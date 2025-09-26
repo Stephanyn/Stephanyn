@@ -2,7 +2,9 @@
 <p align="center"> I'm a UC Berkeley Data Scientist graduate with a GIS concentrationa passionate about data-driven conservation & climate research.
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif"  />
+</div>
 
 ###
 
@@ -50,6 +52,12 @@
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src=["https://spotify-recently-played-readme.vercel.app/api?user=9yw6d2c3v6m1gc817s35zak3qcount=5" alt="Spotify recently played"  />
 </div>
 
 ###
