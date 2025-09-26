@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Estephany Nunez Lovio.</h2>
-<p align="center"> I'm a UC Berkeley Data Scientist graduate with a GIS concentrationa passionate about data-driven conservation & climate research.
+<p align="center"> I'm a UC Berkeley Data Scientist graduate with a GIS concentration passionate about data-driven conservation & climate research.
 ###
 
 <div align="center">
@@ -35,7 +35,7 @@
 <img width="12" />
 
 <!-- Google Earth Engine (no official devicon, using Earth Engine logo) -->
-<img src="https://www.pngaaa.com/path-to-your-logo.png" height="30" alt="google earth engine logo" />
+<img src="https://www.pngaaa.com/detail/546772#google_vignette.png" height="30" alt="google earth engine logo" />
 <img width="12" />
 
 
