@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Estephany Nunez Lovio.</h2>
+<h2 align="center">Hi 👋! My name is Estephany Nunez Lovio.</h2>
 <p align="center"> I'm a UC Berkeley Data Scientist graduate with a GIS concentration passionate about data-driven conservation & climate research.
-###
+
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif"  />
