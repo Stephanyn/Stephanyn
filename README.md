@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="R Studio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -35,7 +35,7 @@
 <img width="12" />
 
 <!-- Google Earth Engine (no official devicon, using Earth Engine logo) -->
-<img src="https://www.pngaaa.com/detail/546772#google_vignette.png" height="30" alt="google earth engine logo" />
+<img src="https://earthengine.google.com/" height="30" alt="google earth engine logo" />
 <img width="12" />
 
 
