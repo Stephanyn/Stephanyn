@@ -35,8 +35,9 @@
 <img width="12" />
 
 <!-- Google Earth Engine (no official devicon, using Earth Engine logo) -->
-<img src="https://raw.githubusercontent.com/gee-community/gee-icons/main/icons/earthengine-logo.svg" height="30" alt="google earth engine logo" />
+<img src="https://www.pngaaa.com/path-to-your-logo.png" height="30" alt="google earth engine logo" />
 <img width="12" />
+
 
 </div>
 
